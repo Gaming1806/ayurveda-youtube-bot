@@ -6,4 +6,4 @@ token.json
 client_secret.json
 .env
 *.zip
-.DS_Store
+.DS_Storeclient_secret.json
